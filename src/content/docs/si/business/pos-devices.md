@@ -12,7 +12,10 @@ sidebar:
 
 **Till** එකක් කියන්නේ එක **register** එකකට register කරපු counter computer, laptop හෝ tablet එකක තියෙන browser එකක්.
 ඒක offline වැඩ කරනවා, ආයෙත් online වුණාම sales යවනවා. **POS devices** හි branch අනුව ඔබේ registers සහ ඒ හැම එකකම
-till එක list කරනවා.
+till එක, register එක යටතේ group කරලා list කරනවා. Remove කරපු tills <span class="ui">Show {n} removed</span> පිටිපස්සේ හැංගිලා.
+
+Branch එකකට **[local hub](/si/business/local-hub/)** එකකුත් තියෙන්න පුළුවන් — internet නැති වුණත් tills එකට වැඩ කරන්න, ඒවා
+connect වෙන shop එකේ computer එකක්.
 
 ## Till එකක් pair කරන්න
 

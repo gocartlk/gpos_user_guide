@@ -35,6 +35,7 @@ feature එකයි. [Plans and features](/si/getting-started/plans/) බලන
 | Branches | View branches, warehouses and registers | Branch structure එක බලන්න. |
 | Branches | Create and update branches, warehouses and registers | Branch structure එක වෙනස් කරන්න. |
 | Devices | Register and revoke POS devices | Tills pair කරන්න සහ අයින් කරන්න, sync issues විසඳන්න. |
+| Devices | Add, replace and remove a branch's local hub | [Local hub](/si/business/local-hub/) එක. Default විදිහට Owner සහ Administrator. Plan feature එකක්. |
 | Employees | View employees | Employee list එක බලන්න. |
 | Employees | Create, update and disable employees and their roles | Staff manage කරන්න. |
 | Roles | Create and update roles | Custom roles හදන්න. |
@@ -53,6 +54,9 @@ feature එකයි. [Plans and features](/si/getting-started/plans/) බලන
 | Sales | Create sales at the POS | Till එකේ විකුණන්න. |
 | Sales | Apply manual discounts | වැඩි limit එක දක්වා discounts දෙන්න සහ cashiers ගේ discounts approve කරන්න. |
 | Sales | Process returns · Void sales | Manager ගේ approval නැතුව. |
+| Sales | Sell on credit within the customer's limit | Till එකේ Credit තෝරන්න. Default විදිහට Owner, Administrator, Manager සහ Cashier. Plan feature එකක්. |
+| Sales | Approve credit beyond the limit and set credit limits | Till එකේ approve කරන්න; customer ට limits set කරන්න. Default විදිහට Owner, Administrator සහ Manager. Plan feature එකක්. |
+| Sales | Receive payments for credit sales | Till එකේ Receive payment screen එක. Default විදිහට Owner, Administrator, Manager සහ Cashier. Plan feature එකක්. |
 | Cash | Open and close own cash shift, cash in/out | Till එකේ shift එකක් පවත්වාගෙන යන්න. |
 | Cash | View and reconcile all cash shifts | හැම shift එකක්ම බලන්න, count එකක් නැතුව close කරන්න, cash outs approve කරන්න. |
 | Expenses | Record expenses | Expense features සඳහා වෙන් කරලා. |
@@ -74,6 +78,10 @@ feature එකයි. [Plans and features](/si/getting-started/plans/) බලන
 4. <span class="ui">Create role</span> තෝරන්න.
 
 ඔබට දෙන්න පුළුවන් **ඔබ ළඟම තියෙන** permissions විතරයි — අනිත් ඒවා *You do not hold this permission* ලෙස පෙන්නනවා.
+
+සමහර permissions වැඩ කරන්න **වෙනත් ඒවා ඕන** — උදා. *Post inventory adjustments* වලට *View inventory* සහ *View products and
+catalogue* ඕන. එකක් tick කළාම ඒකට ඕන ඒවාත් tick වෙනවා (*Also ticked …*), එකක් untick කළාම ඒක ඕන permissions untick වෙනවා
+(*Also unticked …*).
 
 Custom role එකක් වෙනස් කරන්න <span class="ui">Edit</span> සහ <span class="ui">Save role</span> තෝරන්න. තවදුරටත් ඕන
 නැත්නම් <span class="ui">Archive</span> තෝරන්න.

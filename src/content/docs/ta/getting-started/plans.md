@@ -46,6 +46,7 @@ GPOS பல **plans** இல் வருகிறது — உதா. **Basic*
 | **More than one branch** | பல shops ஐ நடத்துதல் | [Branches](/ta/business/branches/) |
 | ↳ **Different branch prices** | ஒரு branch இல் வேறு price | [Products](/ta/catalog/products/) |
 | **Warehouses** | Branch இன் சொந்த store அல்லாத stores | [Branches](/ta/business/branches/) |
+| **Local hub** | Internet இல்லாமல் branch இன் tills ஐச் சேர்ந்து வேலை செய்ய வைக்கும் shop இல் உள்ள computer | [Local hub](/ta/business/local-hub/) |
 | **Sizes and colours (variants)** | Sizes, colours மற்றும் பிற options உள்ள products | [Products](/ta/catalog/products/) |
 | **Product photos** | Products இல் pictures | [Products](/ta/catalog/products/) |
 | **Excel / CSV upload and download** | Products ஐ import மற்றும் export செய்தல் | [Import and export](/ta/catalog/import-export/) |
@@ -53,6 +54,7 @@ GPOS பல **plans** இல் வருகிறது — உதா. **Basic*
 | **Print barcode labels** | Label printer அல்லது A4 sticker sheets இல் barcode labels | [Barcodes மற்றும் labels](/ta/catalog/barcodes-and-labels/) |
 | **Customer list** | Back office மற்றும் till இல் customer profiles, PDPA export மற்றும் erase உட்பட | [Customers](/ta/sales/customers/) |
 | ↳ **Customer discounts** | Till இல் apply ஆகும் customer இன் சொந்த discount | [Customers at the till](/ta/till/customers/) |
+| ↳ **Credit sales and customer balances** | Credit இல் விற்பனை, credit limits, பின்னர் payments பெறுதல் | [Credit sales](/ta/till/credit-sales/) |
 
 #### Stock மற்றும் purchasing
 
@@ -60,6 +62,7 @@ GPOS பல **plans** இல் வருகிறது — உதா. **Basic*
 |---------|----------------|-------------|
 | **Stock control** | Stock levels, opening stock, adjustments | [Inventory](/ta/inventory/stock-and-movements/) |
 | ↳ **Stock transfers** | Stores இடையே stock ஐ மாற்றுதல் | [Transfers](/ta/inventory/transfers/) |
+| ↳ **Stock view at the till** | Till இன் search இல் branch இன் stock மற்றும் Stock screen | [Till இல் stock](/ta/till/stock-at-till/) |
 | ↳ **Stock counts** | Count sheets | [Stock counts](/ta/inventory/counts/) |
 | ↳ **Batches and expiry dates** | Batch numbers மற்றும் expiry dates | [Batches and expiry](/ta/inventory/batches-expiry/) |
 | **Suppliers and goods received** | Suppliers மற்றும் deliveries ஐ receive செய்தல் | [Suppliers](/ta/purchasing/suppliers/), [Receiving goods](/ta/purchasing/receiving-goods/) |

@@ -18,6 +18,8 @@ sidebar:
 | **Subscription** | Your yearly agreement for a plan: its price, the paid period and the renewal date. See Billing. |
 | **Invoice / credit note** | What GPOS bills you (`INV-2026-…`), and a correction to an invoice (`CN-2026-…`). |
 | **Partner** | A company that sells GPOS to its own customers and bills them itself. |
+| **Credit sale** | A sale the customer pays later, in one go or in parts. What they owe is their **balance**; the most they may owe is their **credit limit**. |
+| **Local hub** | A computer in a branch that the branch's tills connect to, so they keep working together when the internet is down. |
 | **Shift** | A period of selling on one till, from opening (with a float) to closing (with a count). Named after who opened it and when, e.g. `Shift-Chamari-20261027-8.00am`. |
 | **Float** | The cash in the drawer when a shift opens, for giving change. |
 | **Cash in / cash out** | Money put in or taken out of the drawer that is not a sale or refund. |

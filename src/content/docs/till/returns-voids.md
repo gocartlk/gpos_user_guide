@@ -53,7 +53,11 @@ A **VOID** receipt is printed.
 
 ## Good to know
 
-- Offline, the till only knows returns made **on this till**.
+- Offline, the till only knows returns made **on this till** — with a
+  [local hub](/business/local-hub/), it also finds the branch's other tills' receipts from the
+  last 7 days.
+- A return of a [credit sale](/till/credit-sales/) first reduces what the customer owes. A credit
+  sale that has received a payment cannot be voided — use a return.
 - *This sale is older than the business's return window* — the return window has passed.
 - Returns and voids appear in **Sales** (*Returned*, *Partly returned*, *Voided*) and in the
   **Refunds & voids** report.

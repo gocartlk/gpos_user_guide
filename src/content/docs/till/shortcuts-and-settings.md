@@ -46,6 +46,8 @@ The same list is on the till: the **keyboard button** at the top right, or **Ctr
 | **F10** | Shift: cash in/out, X report (receipt printer or **A4**), close |
 | **F11** | Full screen on / off |
 | **F12** | Lock the till |
+| **Ctrl + I** | [Stock](/till/stock-at-till/): search, low, out of stock, expiring (if in your plan) |
+| **Ctrl + B** | [Receive payment](/till/credit-sales/#receive-a-payment) for a credit sale (if in your plan) |
 | **Ctrl + K** | The list of keys |
 | **Esc** | Close the open window |
 

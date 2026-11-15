@@ -64,6 +64,10 @@ the tills have synced.
 | **Discounts** | Sales with a discount: who gave it, who approved it, and how much. |
 | **Tax summary** | Taxable amount and tax per rate, sales less returns — for the VAT return. |
 | **Cash over / short** | Per closed shift: what the drawer should hold, what was counted and the difference. |
+| **Credit outstanding** | What each customer still owes on [credit sales](/till/credit-sales/), by how old the sales are (0–30, 31–60, 61–90, over 90 days). Plan feature. |
+
+Credit sales are not money received: **Payments by method** counts the payments for them when
+they are received.
 
 ## Stock reports
 

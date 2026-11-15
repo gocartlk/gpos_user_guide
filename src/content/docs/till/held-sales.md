@@ -20,6 +20,7 @@ A customer forgot something? **Hold** their sale and serve the next person.
 If you resume while another sale is in progress, that one is held in its place.
 
 :::caution
-Held sales stay on **this till** only, and are **discarded when the shift closes**. The till
+Held sales stay on **this till** only (with a [local hub](/business/local-hub/), the other tills
+of the branch see them too, marked *on …*), and are **discarded when the shift closes**. The till
 warns you before closing — resume and finish them first if needed.
 :::

@@ -12,7 +12,11 @@ menu இல் தெரியாது. [Plans and features](/ta/getting-starte
 
 **Till** என்பது ஒரு **register** க்கு register செய்யப்பட்ட counter computer, laptop அல்லது tablet இல் உள்ள browser.
 அது offline ஆக வேலை செய்யும், மீண்டும் online ஆனதும் sales ஐ அனுப்பும். **POS devices** branch வாரியாக உங்கள் registers
-மற்றும் ஒவ்வொன்றின் till ஐயும் பட்டியலிடும்.
+மற்றும் ஒவ்வொன்றின் till ஐயும், register இன் கீழ் குழுவாகப் பட்டியலிடும். Remove செய்த tills
+<span class="ui">Show {n} removed</span> இன் பின் மறைந்திருக்கும்.
+
+Branch க்கு **[local hub](/ta/business/local-hub/)** உம் இருக்கலாம் — internet இல்லாதபோதும் tills சேர்ந்து வேலை செய்ய, அவை இணையும்
+shop இல் உள்ள computer.
 
 ## Till ஐ pair செய்யுங்கள்
 

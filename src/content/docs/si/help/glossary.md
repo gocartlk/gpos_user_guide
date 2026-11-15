@@ -18,6 +18,8 @@ sidebar:
 | **Subscription** | Plan එකක් සඳහා ඔබේ අවුරුදු ගිවිසුම: ඒකේ price එක, ගෙවපු කාලය සහ renewal දිනය. Billing බලන්න. |
 | **Invoice / credit note** | GPOS ඔබට bill කරන දේ (`INV-2026-…`), සහ invoice එකක නිවැරදි කිරීමක් (`CN-2026-…`). |
 | **Partner** | තමන්ගේම customers ට GPOS විකුණලා තමන්ම bill කරන company එකක්. |
+| **Credit sale** | Customer පස්සේ, එක පාරට හෝ කොටස් වශයෙන් ගෙවන sale එකක්. ඔවුන් ණය ගණන ඔවුන්ගේ **balance** එක; ණය වෙන්න පුළුවන් උපරිමය ඔවුන්ගේ **credit limit** එක. |
+| **Local hub** | Branch එකක tills connect වෙන computer එකක්, internet නැති වුණත් ඒවා එකට වැඩ කරන්න. |
 | **Shift** | එක till එකක විකුණන කාලයක්, open කරන (float එකක් එක්ක) වෙලාවේ සිට close කරන (count එකක් එක්ක) වෙලාව දක්වා. Open කළේ කවුද, කවදාද අනුව නම් කරනවා, උදා. `Shift-Chamari-20261027-8.00am`. |
 | **Float** | Change දෙන්න, shift එක open කරනකොට drawer එකේ තියෙන cash. |
 | **Cash in / cash out** | Sale එකක් හෝ refund එකක් නොවන, drawer එකට දාන හෝ ගන්න සල්ලි. |

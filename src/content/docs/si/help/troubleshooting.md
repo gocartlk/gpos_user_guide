@@ -104,6 +104,20 @@ Till එක ටික කාලයක් sync වෙලා නැහැ. Interne
 **Cash in/out වලදී "No reasons are set up for this"**
 [Cash in/out reasons](/si/business/cash-reasons/) add කරන්න හෝ switch on කරන්න.
 
+**"Credit limit exceeded. A manager must approve." / "This customer has no credit limit…"**
+Manager කෙනෙක් PIN එකෙන් approve කරනවා, නැත්නම් back office එකේ customer ට වැඩි limit එකක් දෙන්න. [Credit sales](/si/till/credit-sales/)
+බලන්න.
+
+**"A payment was received for this sale, so it cannot be voided"**
+කොටසක් හෝ සම්පූර්ණයෙන් ගෙවපු credit sale එකක් return කරන්න විතරයි පුළුවන්. **Return** පාවිච්චි කරන්න.
+
+**"Stock is not available offline"**
+Stock screen එකට internet, නැත්නම් [local hub](/si/business/local-hub/) එකක් ඕන.
+
+**"Hub not reachable · selling offline"**
+Till එකට shop එකේ local hub එකට යන්න බැහැ. දිගටම විකුණන්න — හැමදේම පස්සේ යවනවා. Hub computer එක on ද, ඒකේ cable එක සහ till එකේ
+Wi-Fi වැඩ කරනවද බලන්න.
+
 **"No manager can approve on this till"**
 Manager කෙනෙකුට POS PIN එකක් සහ මේ branch එකට access ඕන.
 

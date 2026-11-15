@@ -20,6 +20,7 @@ Customer ஏதாவது மறந்துவிட்டாரா? அவ�
 வேறு sale நடக்கும்போது resume செய்தால், அந்த sale அதன் இடத்தில் hold ஆகும்.
 
 :::caution
-Held sales **இந்த till இல்** மட்டுமே இருக்கும், **shift close ஆகும்போது discard ஆகும்**. Close செய்யும் முன் till எச்சரிக்கும் —
+Held sales **இந்த till இல்** மட்டுமே இருக்கும் ([local hub](/ta/business/local-hub/) உடன் branch இன் மற்ற tills உம் அவற்றை
+*on …* எனக் காணும்), **shift close ஆகும்போது discard ஆகும்**. Close செய்யும் முன் till எச்சரிக்கும் —
 தேவையெனில் முதலில் அவற்றை resume செய்து முடியுங்கள்.
 :::

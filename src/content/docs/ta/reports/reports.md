@@ -58,6 +58,9 @@ Till இன்னும் எல்லா sales ஐயும் அனுப்
 | **Discounts** | Discount உள்ள sales: யார் கொடுத்தார், யார் approve செய்தார், எவ்வளவு. |
 | **Tax summary** | Rate வாரியாக taxable amount மற்றும் tax, sales இலிருந்து returns கழித்து — VAT return க்கு. |
 | **Cash over / short** | Close ஆன shift வாரியாக: drawer இல் இருக்க வேண்டியது, எண்ணியது, difference. |
+| **Credit outstanding** | [Credit sales](/ta/till/credit-sales/) இல் ஒவ்வொரு customer உம் இன்னும் கடன்பட்டுள்ளது, sales இன் வயதுப்படி (0–30, 31–60, 61–90, 90 நாட்களுக்கு மேல்). Plan feature. |
+
+Credit sales பெற்ற பணம் அல்ல: **Payments by method** அவற்றுக்கான payments ஐ அவை பெறப்பட்டபோது கணக்கிடும்.
 
 ## Stock reports
 

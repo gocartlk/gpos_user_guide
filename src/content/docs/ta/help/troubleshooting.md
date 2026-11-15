@@ -104,6 +104,20 @@ Till சிறிது காலமாக sync ஆகவில்லை. Intern
 **Cash in/out இல் "No reasons are set up for this"**
 [Cash in/out reasons](/ta/business/cash-reasons/) ஐ add அல்லது switch on செய்யுங்கள்.
 
+**"Credit limit exceeded. A manager must approve." / "This customer has no credit limit…"**
+Manager PIN மூலம் approve செய்வார், அல்லது back office இல் customer க்கு அதிக limit ஐக் கொடுங்கள்.
+[Credit sales](/ta/till/credit-sales/) ஐப் பாருங்கள்.
+
+**"A payment was received for this sale, so it cannot be voided"**
+பகுதியாக அல்லது முழுமையாகச் செலுத்தப்பட்ட credit sale ஐ return மட்டுமே செய்ய முடியும். **Return** ஐப் பயன்படுத்துங்கள்.
+
+**"Stock is not available offline"**
+Stock screen க்கு internet, அல்லது [local hub](/ta/business/local-hub/) தேவை.
+
+**"Hub not reachable · selling offline"**
+Till shop இன் local hub ஐ அடைய முடியவில்லை. தொடர்ந்து விற்பனை செய்யுங்கள் — எல்லாம் பின்னர் அனுப்பப்படும். Hub computer on ஆக
+உள்ளதா, அதன் cable மற்றும் till இன் Wi-Fi வேலை செய்கிறதா எனப் பாருங்கள்.
+
 **"No manager can approve on this till"**
 Manager க்கு POS PIN மற்றும் இந்த branch க்கு access தேவை.
 

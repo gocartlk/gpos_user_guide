@@ -31,7 +31,8 @@ Shifts are named after who opened them and when, for example `Shift-Chamari-2026
 ### Shift details
 
 Select a shift to see who opened and closed it, the **Opening float**, sales per payment method
-(*Sales — cash*, *Sales — card*…), **Cash in**, **Cash out**, **Cash refunds**, the **Counted notes
+(*Sales — cash*, *Sales — card*…, and *on credit*, which is not money), **Credit payments
+received**, **Cash in**, **Cash out**, **Cash refunds**, the **Counted notes
 and coins**, every cash movement with who did it and *approved by …*, and the list of sales.
 
 Cash movements can be flagged: **No approval**, **Approver not allowed**, **After the shift

@@ -50,6 +50,9 @@ Original receipt number එක එක්ක **RETURN / REFUND** receipt එක�
 
 ## දැනගන්න හොඳ දේ
 
-- Offline ඉන්නකොට till එක දන්නේ **මේ till එකේ** කරපු returns විතරයි.
+- Offline ඉන්නකොට till එක දන්නේ **මේ till එකේ** කරපු returns විතරයි — [local hub](/si/business/local-hub/) එකක් එක්ක, branch
+  එකේ අනිත් tills වල අන්තිම දින 7 ඇතුළත receipts හොයාගන්නවා.
+- [Credit sale](/si/till/credit-sales/) එකක return එකක් මුලින්ම customer ගේ ණය අඩු කරනවා. Payment එකක් ලැබුණු credit sale එකක්
+  void කරන්න බැහැ — return එකක් කරන්න.
 - *This sale is older than the business's return window* — return window එක පහු වෙලා.
 - Returns සහ voids **Sales** හි (*Returned*, *Partly returned*, *Voided*) සහ **Refunds & voids** report එකේ පෙනෙනවා.

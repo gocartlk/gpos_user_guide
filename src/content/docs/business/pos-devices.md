@@ -11,7 +11,11 @@ This page is part of the **Selling at the counter (POS), cash shifts and tills**
 
 A **till** is a browser on a counter computer, laptop or tablet that is registered to one
 **register**. It keeps working offline and sends its sales when back online. **POS devices** lists
-your registers per branch and the till on each.
+your registers per branch, with the till on each grouped under its register. Removed tills are
+hidden behind <span class="ui">Show {n} removed</span>.
+
+A branch can also have a **[local hub](/business/local-hub/)** — a computer in the shop its tills
+connect to, so they keep working together when the internet is down.
 
 ## Pair a till
 

@@ -40,6 +40,11 @@ Customer කෙනෙක් කොටසක් cash වලින් සහ ක�
 වැරැද්දක් වුණාද? ඒක ළඟ <span class="ui">Remove this payment</span> තෝරන්න. තව ගෙවන්න තියෙන ගණනට වඩා වැඩි වෙන්න පුළුවන්
 cash විතරයි (change දෙන්න).
 
+## Credit එකට
+
+Plan එකේ **Credit sales** තියෙනවා නම්, නිතර එන customer කෙනෙකුට පස්සේ ගෙවන්න පුළුවන්: customer ව sale එකට add කරලා **Credit**
+තෝරන්න. [Credit sales](/si/till/credit-sales/) බලන්න.
+
 ## Back office එකේ
 
 Payments **Sales** හි sale එකේ, cash **shift** එකේ (*Sales — card*, *Sales — QR*…), සහ **Payments by method** report එකේ

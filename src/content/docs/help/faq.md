@@ -19,6 +19,18 @@ Yes. Selling, payments, discounts, approvals, shifts, cash in/out, returns from 
 adding customers all work offline. Sales are sent automatically when the connection is back. You
 need internet to set up a till and to receive price changes. See [Offline and sync](/till/offline-sync/).
 
+### Can customers buy on credit and pay later?
+
+Yes, if your plan includes **Credit sales**. Set each customer's credit limit in the back office;
+at the till choose **Credit**, and take their payments later with **Receive payment**. See
+[Credit sales](/till/credit-sales/).
+
+### Our internet is unreliable. Can our tills keep working together?
+
+Every till already works offline on its own. With a **local hub** — a computer in the shop — the
+tills of a branch also share stock, credit balances, held sales and receipts without internet.
+See [Local hub](/business/local-hub/).
+
 ### What devices can I use as a till?
 
 Any computer, laptop or tablet — Windows, Android or iPad — that runs **Chrome or Edge**. A barcode scanner, receipt printer

@@ -35,6 +35,7 @@ Ready-made roles ஒவ்வொரு plan இலும் உள்ளன. **�
 | Branches | View branches, warehouses and registers | Branch structure ஐப் பார்க்க. |
 | Branches | Create and update branches, warehouses and registers | Branch structure ஐ மாற்ற. |
 | Devices | Register and revoke POS devices | Tills ஐ pair செய்ய, அகற்ற, sync issues ஐத் தீர்க்க. |
+| Devices | Add, replace and remove a branch's local hub | [Local hub](/ta/business/local-hub/). Default ஆக Owner மற்றும் Administrator. Plan feature. |
 | Employees | View employees | Employee list ஐப் பார்க்க. |
 | Employees | Create, update and disable employees and their roles | Staff ஐ manage செய்ய. |
 | Roles | Create and update roles | Custom roles ஐ உருவாக்க. |
@@ -53,6 +54,9 @@ Ready-made roles ஒவ்வொரு plan இலும் உள்ளன. **�
 | Sales | Create sales at the POS | Till இல் விற்பனை செய்ய. |
 | Sales | Apply manual discounts | அதிக limit வரை discounts கொடுக்க, cashiers இன் discounts ஐ approve செய்ய. |
 | Sales | Process returns · Void sales | Manager இன் approval இல்லாமல். |
+| Sales | Sell on credit within the customer's limit | Till இல் Credit ஐத் தேர்ந்தெடுக்க. Default ஆக Owner, Administrator, Manager, Cashier. Plan feature. |
+| Sales | Approve credit beyond the limit and set credit limits | Till இல் approve செய்ய; customer க்கு limits ஐ set செய்ய. Default ஆக Owner, Administrator, Manager. Plan feature. |
+| Sales | Receive payments for credit sales | Till இன் Receive payment screen. Default ஆக Owner, Administrator, Manager, Cashier. Plan feature. |
 | Cash | Open and close own cash shift, cash in/out | Till இல் shift ஐ நடத்த. |
 | Cash | View and reconcile all cash shifts | எல்லா shifts ஐயும் பார்க்க, count இல்லாமல் close செய்ய, cash outs ஐ approve செய்ய. |
 | Expenses | Record expenses | Expense features க்கு ஒதுக்கப்பட்டது. |
@@ -74,6 +78,10 @@ Ready-made roles ஒவ்வொரு plan இலும் உள்ளன. **�
 4. <span class="ui">Create role</span> ஐத் தேர்ந்தெடுங்கள்.
 
 **உங்களிடமே உள்ள** permissions ஐ மட்டுமே கொடுக்க முடியும் — மற்றவை *You do not hold this permission* எனக் காட்டப்படும்.
+
+சில permissions வேலை செய்ய **மற்றவை தேவை** — உதா. *Post inventory adjustments* க்கு *View inventory* மற்றும் *View products and
+catalogue* தேவை. ஒன்றை tick செய்தால் அதற்குத் தேவையானவையும் tick ஆகும் (*Also ticked …*), ஒன்றை untick செய்தால் அதைத் தேவைப்படும்
+permissions உம் untick ஆகும் (*Also unticked …*).
 
 Custom role ஐ மாற்ற <span class="ui">Edit</span> மற்றும் <span class="ui">Save role</span> ஐத் தேர்ந்தெடுங்கள். இனி தேவையில்லையெனில்
 <span class="ui">Archive</span> ஐத் தேர்ந்தெடுங்கள்.

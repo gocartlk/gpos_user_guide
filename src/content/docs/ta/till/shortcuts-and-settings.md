@@ -47,6 +47,8 @@ sidebar:
 | **F10** | Shift: cash in/out, X report (receipt printer அல்லது **A4**), close |
 | **F11** | Full screen on / off |
 | **F12** | Till ஐ lock செய்யுங்கள் |
+| **Ctrl + I** | [Stock](/ta/till/stock-at-till/): search, low, out of stock, expiring (plan இல் இருந்தால்) |
+| **Ctrl + B** | Credit sale க்கு [Receive payment](/ta/till/credit-sales/) (plan இல் இருந்தால்) |
 | **Ctrl + K** | Keys list |
 | **Esc** | Open ஆக உள்ள window ஐ close செய்யுங்கள் |
 

@@ -50,6 +50,9 @@ Original receipt number உடன் **RETURN / REFUND** receipt print ஆகு
 
 ## தெரிந்துகொள்ள வேண்டியவை
 
-- Offline ஆக இருக்கும்போது till **இந்த till இல்** செய்த returns ஐ மட்டுமே அறியும்.
+- Offline ஆக இருக்கும்போது till **இந்த till இல்** செய்த returns ஐ மட்டுமே அறியும் — [local hub](/ta/business/local-hub/)
+  உடன், branch இன் மற்ற tills இன் கடைசி 7 நாள் receipts ஐயும் கண்டுபிடிக்கும்.
+- [Credit sale](/ta/till/credit-sales/) இன் return முதலில் customer இன் கடனைக் குறைக்கும். Payment பெற்ற credit sale ஐ void
+  செய்ய முடியாது — return ஐப் பயன்படுத்துங்கள்.
 - *This sale is older than the business's return window* — return window கடந்துவிட்டது.
 - Returns மற்றும் voids **Sales** இல் (*Returned*, *Partly returned*, *Voided*) மற்றும் **Refunds & voids** report இல் தெரியும்.

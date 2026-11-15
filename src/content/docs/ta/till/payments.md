@@ -39,6 +39,11 @@ Customer ஒரு பகுதியை cash ஆகவும் ஒரு ப�
 தவறு நடந்ததா? அதற்கு அருகில் <span class="ui">Remove this payment</span> ஐத் தேர்ந்தெடுங்கள். இன்னும் செலுத்த வேண்டியதை விட
 அதிகமாக இருக்கக்கூடியது cash மட்டுமே (change கொடுக்க).
 
+## Credit இல்
+
+Plan இல் **Credit sales** இருந்தால், வழக்கமான customer பின்னர் செலுத்தலாம்: customer ஐ sale இல் சேர்த்து **Credit** ஐத்
+தேர்ந்தெடுங்கள். [Credit sales](/ta/till/credit-sales/) ஐப் பாருங்கள்.
+
 ## Back office இல்
 
 Payments **Sales** இல் sale இலும், cash **shift** இலும் (*Sales — card*, *Sales — QR*…), **Payments by method** report இலும்

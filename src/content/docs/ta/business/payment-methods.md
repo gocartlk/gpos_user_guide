@@ -23,6 +23,10 @@ reference உடன் **record செய்யும் மட்டுமே**
 | Card | Card (terminal) | ஆம் |
 | QR payment | QR payment | ஆம் |
 | Bank transfer | Bank transfer | ஆம் |
+| Credit | Credit (system) | இல்லை |
+
+**Credit** **Credit sales** feature உடன் வரும்: customer பின்னர் செலுத்தும் sale இன் பகுதி. அது பெற்ற பணம் அல்ல. அதை rename
+செய்யலாம், ஆனால் delete செய்யவோ இன்னொன்றைச் சேர்க்கவோ முடியாது. [Credit sales](/ta/till/credit-sales/) ஐப் பாருங்கள்.
 
 ## Payment method ஐ add செய்யுங்கள்
 

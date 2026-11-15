@@ -23,6 +23,10 @@ reference එකත් එක්ක **record කරනවා විතරයි*
 | Card | Card (terminal) | ඔව් |
 | QR payment | QR payment | ඔව් |
 | Bank transfer | Bank transfer | ඔව් |
+| Credit | Credit (system) | නැහැ |
+
+**Credit** එක එන්නේ **Credit sales** feature එකත් එක්ක: customer පස්සේ ගෙවන sale එකේ කොටස. ඒක ලැබුණු සල්ලි නෙවෙයි. ඒක rename කරන්න
+පුළුවන්, නමුත් delete කරන්න හෝ තව එකක් add කරන්න බැහැ. [Credit sales](/si/till/credit-sales/) බලන්න.
 
 ## Payment method එකක් add කරන්න
 

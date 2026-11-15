@@ -17,6 +17,16 @@ review කරනවා — සාමාන්‍යයෙන් වැඩ කර
 Connection එක ආපු ගමන් sales automatic යවනවා. Till එකක් setup කරන්න සහ price changes ලබාගන්න internet ඕන.
 [Offline and sync](/si/till/offline-sync/) බලන්න.
 
+### Customers ලාට credit එකට අරන් පස්සේ ගෙවන්න පුළුවන්ද?
+
+ඔව්, ඔබේ plan එකේ **Credit sales** තියෙනවා නම්. Back office එකේ හැම customer කෙනෙකුටම credit limit එකක් set කරන්න; till එකේ
+**Credit** තෝරන්න, ඔවුන්ගේ payments පස්සේ **Receive payment** එකෙන් ගන්න. [Credit sales](/si/till/credit-sales/) බලන්න.
+
+### අපේ internet විශ්වාස කරන්න බැහැ. අපේ tills වලට එකට වැඩ කරන්න පුළුවන්ද?
+
+හැම till එකක්ම දැනටමත් තනියම offline වැඩ කරනවා. **Local hub** එකක් — shop එකේ computer එකක් — එක්ක branch එකක tills internet
+නැතුවත් stock, credit balances, held sales සහ receipts බෙදාගන්නවා. [Local hub](/si/business/local-hub/) බලන්න.
+
 ### Till එකක් ලෙස භාවිතා කරන්න පුළුවන් devices මොනවද?
 
 **Chrome හෝ Edge** run වෙන ඕනෑම computer, laptop හෝ tablet එකක් — Windows, Android හෝ iPad. Barcode scanner, receipt printer (58 හෝ 80 mm)

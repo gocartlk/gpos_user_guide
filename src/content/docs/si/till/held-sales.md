@@ -20,6 +20,7 @@ Customer කෙනෙකුට මොකක් හරි අමතක වුණ�
 වෙන sale එකක් කරමින් ඉන්නකොට resume කළොත්, ඒ sale එක ඒ වෙනුවට hold වෙනවා.
 
 :::caution
-Held sales තියෙන්නේ **මේ till එකේ** විතරයි, **shift එක close කරනකොට discard වෙනවා**. Close කරන්න කලින් till එක warn කරනවා —
+Held sales තියෙන්නේ **මේ till එකේ** විතරයි ([local hub](/si/business/local-hub/) එකක් එක්ක branch එකේ අනිත් tills වලටත් *on …*
+ලෙස පේනවා), **shift එක close කරනකොට discard වෙනවා**. Close කරන්න කලින් till එක warn කරනවා —
 ඕන නම් මුලින් ඒවා resume කරලා ඉවර කරන්න.
 :::

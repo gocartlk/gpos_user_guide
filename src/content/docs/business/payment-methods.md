@@ -23,6 +23,11 @@ always available.**
 | Card | Card (terminal) | Yes |
 | QR payment | QR payment | Yes |
 | Bank transfer | Bank transfer | Yes |
+| Credit | Credit (system) | No |
+
+**Credit** is there with the **Credit sales** feature: the part of a sale the customer pays later.
+It is not money received. You can rename it, but not delete it or add another. See
+[Credit sales](/till/credit-sales/).
 
 ## Add a payment method
 

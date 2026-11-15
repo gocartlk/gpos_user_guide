@@ -22,7 +22,8 @@ and discount.
    - **Customer discount (%)** — applied automatically at the till; needs no manager approval.
    - **Notes** — for the back office only; not sent to tills.
    - **Marketing consent** — tick *SMS*, *WhatsApp* or *Email* only if the customer agreed.
-   - **Active** — inactive customers are removed from tills.
+   - **Active** — inactive customers are removed from tills. A customer who owes money on
+     [credit sales](/till/credit-sales/) cannot be made inactive or erased.
 3. Save.
 
 ## Customer details
@@ -30,6 +31,12 @@ and discount.
 Each customer shows the number of purchases, how much they **Spent** (after returns), when and
 where the profile was created (*at a till* or *in the admin*), the **Purchase history** with
 receipts, and the **Consent history**.
+
+## Credit
+
+With **Credit sales** in your plan, the customer also shows a **Credit** section: the **Balance
+owing**, the **Credit limit**, **Sales not fully paid** and a **Statement**. Owners, administrators
+and managers set the limit here. See [Credit sales](/till/credit-sales/#in-the-back-office).
 
 ## Personal data (PDPA)
 

@@ -57,6 +57,9 @@ Till එකක් තවම හැම sale එකක්ම යවලා නැ�
 | **Discounts** | Discount එකක් තියෙන sales: දුන්නේ කවුද, approve කළේ කවුද, කොච්චරද. |
 | **Tax summary** | Rate අනුව taxable amount සහ tax, sales වලින් returns අඩු කරලා — VAT return එකට. |
 | **Cash over / short** | Close කරපු shift එකක් අනුව: drawer එකේ තියෙන්න ඕන ගණන, ගණන් කරපු ගණන සහ difference එක. |
+| **Credit outstanding** | [Credit sales](/si/till/credit-sales/) වල හැම customer කෙනෙක්ම තවම ණය ගණන, sales වල වයස අනුව (දින 0–30, 31–60, 61–90, 90ට වැඩි). Plan feature එකක්. |
+
+Credit sales ලැබුණු සල්ලි නෙවෙයි: **Payments by method** report එක ඒවායේ payments ගණන් කරන්නේ ලැබුණු වෙලාවේ.
 
 ## Stock reports
 

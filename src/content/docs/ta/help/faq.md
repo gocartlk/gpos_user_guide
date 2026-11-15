@@ -17,6 +17,17 @@ application ஐ review செய்வார் — பொதுவாக சி
 செய்யும். Connection திரும்பியதும் sales தானாக அனுப்பப்படும். Till ஐ setup செய்யவும் price changes ஐப் பெறவும் internet தேவை.
 [Offline and sync](/ta/till/offline-sync/) ஐப் பாருங்கள்.
 
+### Customers credit இல் வாங்கிப் பின்னர் செலுத்தலாமா?
+
+ஆம், உங்கள் plan இல் **Credit sales** இருந்தால். Back office இல் ஒவ்வொரு customer க்கும் credit limit ஐ set செய்யுங்கள்; till இல்
+**Credit** ஐத் தேர்ந்தெடுங்கள், அவர்களின் payments ஐப் பின்னர் **Receive payment** மூலம் பெறுங்கள்.
+[Credit sales](/ta/till/credit-sales/) ஐப் பாருங்கள்.
+
+### எங்கள் internet நம்பகமானதல்ல. எங்கள் tills சேர்ந்து வேலை செய்ய முடியுமா?
+
+ஒவ்வொரு till உம் ஏற்கனவே தனியாக offline இல் வேலை செய்யும். **Local hub** உடன் — shop இல் உள்ள ஒரு computer — branch இன் tills
+internet இல்லாமலும் stock, credit balances, held sales, receipts ஐப் பகிர்ந்துகொள்ளும். [Local hub](/ta/business/local-hub/) ஐப் பாருங்கள்.
+
 ### Till ஆக எந்த devices ஐப் பயன்படுத்தலாம்?
 
 **Chrome அல்லது Edge** run ஆகும் எந்த computer, laptop அல்லது tablet உம் — Windows, Android அல்லது iPad. Barcode scanner, receipt printer

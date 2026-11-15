@@ -24,6 +24,10 @@ Till එක ඔබේ products, prices, staff PINs, customers සහ settings �
 | **Sync error · {n} need attention** | යමක් යවන්න බැරි වුණා — පහත බලන්න. |
 | **Last sync …** | Till එක අන්තිමට back office එක එක්ක කතා කළේ කවදාද. |
 
+[Local hub](/si/business/local-hub/) එකක් එක්ක, bar එක till එක connect වෙලා තියෙන විදිහත් කියනවා — උදා. *Online · via hub Back
+office PC*, *Hub Back office PC · cloud offline · 12 safe on the hub*, නැත්නම් *Hub not reachable · selling offline*. Hub එක තියාගෙන
+ඉන්න sales **On the hub** ලෙස පෙන්නනවා.
+
 ## Offline වැඩ කරන දේ / internet ඕන දේ
 
 | Offline වැඩ කරනවා | Internet ඕන |
@@ -31,7 +35,8 @@ Till එක ඔබේ products, prices, staff PINs, customers සහ settings �
 | Selling, payments, discounts, approvals | Till එක setup කිරීම හෝ re-authorise කිරීම |
 | Shifts open සහ close කිරීම, cash in/out | **වෙනත් till එකක** කරපු sale එකක් හෙවීම |
 | **මේ** till එකේ sales වල returns | අලුත් prices, products, PINs ලබාගැනීම (ඊළඟ sync එකේදී) |
-| Customers add කිරීම | |
+| Customers add කිරීම | [Stock](/si/till/stock-at-till/) (local hub එකක් නැත්නම්) |
+| [Credit sales සහ payments](/si/till/credit-sales/) | |
 
 ## Sync panel එක
 
@@ -45,6 +50,8 @@ Till එක ඔබේ products, prices, staff PINs, customers සහ settings �
   ඔබේ service provider ට දෙන්න: තවම ඒක ආයෙත් load කරන්න බැහැ, නමුත් ඔවුන්ට ඒකෙන් sales අතින් reconcile කරන්න පුළුවන්.
 - <span class="ui">Download everything again</span> — till එකේ catalog එක වැරදි වගේ නම්. **Waiting operations එහෙමම තියෙනවා.**
 - **This till** විස්තර: register, branch, app version, storage සහ screen status.
+- **Local hub** — branch එකට hub එකක් තියෙනවා නම්: ඒකේ address එක සහ ඒක අන්තිමට cloud එකට ගියේ කවදාද. තවම ඒක පාවිච්චි නොකරන
+  till එකක <span class="ui">Move to the hub</span> ([Local hub](/si/business/local-hub/) බලන්න).
 
 ## "Waiting for a manager"
 

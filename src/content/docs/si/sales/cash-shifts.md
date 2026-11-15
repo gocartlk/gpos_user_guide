@@ -30,8 +30,8 @@ Shifts වලට නම දෙන්නේ open කළේ කවුද සහ �
 
 ### Shift details
 
-Shift එකක් තේරුවාම open සහ close කළේ කවුද, **Opening float** එක, payment method අනුව sales (*Sales — cash*, *Sales — card*…),
-**Cash in**, **Cash out**, **Cash refunds**, **Counted notes and coins**, කවුද කළේ සහ *approved by …* එක්ක හැම cash movement එකක්ම,
+Shift එකක් තේරුවාම open සහ close කළේ කවුද, **Opening float** එක, payment method අනුව sales (*Sales — cash*, *Sales — card*…, සහ සල්ලි නොවන *on credit*),
+**Credit payments received**, **Cash in**, **Cash out**, **Cash refunds**, **Counted notes and coins**, කවුද කළේ සහ *approved by …* එක්ක හැම cash movement එකක්ම,
 සහ sales list එක පෙනෙනවා.
 
 Cash movements flag වෙන්න පුළුවන්: **No approval**, **Approver not allowed**, **After the shift closed**, **Reason switched off**,

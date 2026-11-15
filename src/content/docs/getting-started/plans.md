@@ -47,6 +47,7 @@ dashboard's **Plan** card.
 | **More than one branch** | Running several shops | [Branches](/business/branches/) |
 | ↳ **Different branch prices** | A different price in one branch | [Products](/catalog/products/) |
 | **Warehouses** | Stores that are not a branch's own store | [Branches](/business/branches/) |
+| **Local hub** | A computer in the shop that keeps the branch's tills working together without internet | [Local hub](/business/local-hub/) |
 | **Sizes and colours (variants)** | Products with sizes, colours and other options | [Products](/catalog/products/) |
 | **Product photos** | Pictures on products | [Products](/catalog/products/) |
 | **Excel / CSV upload and download** | Importing and exporting products | [Import and export](/catalog/import-export/) |
@@ -54,6 +55,7 @@ dashboard's **Plan** card.
 | **Print barcode labels** | Barcode labels on a label printer or A4 sticker sheets | [Barcodes and labels](/catalog/barcodes-and-labels/) |
 | **Customer list** | Customer profiles in the back office and at the till, including PDPA export and erase | [Customers](/sales/customers/) |
 | ↳ **Customer discounts** | A customer's own discount, applied at the till | [Customers at the till](/till/customers/) |
+| ↳ **Credit sales and customer balances** | Selling on credit, credit limits, taking payments later | [Credit sales](/till/credit-sales/) |
 
 #### Stock and purchasing
 
@@ -61,6 +63,7 @@ dashboard's **Plan** card.
 |---------|----------------|-------------|
 | **Stock control** | Stock levels, opening stock, adjustments | [Inventory](/inventory/stock-and-movements/) |
 | ↳ **Stock transfers** | Moving stock between stores | [Transfers](/inventory/transfers/) |
+| ↳ **Stock view at the till** | The branch's stock in the till's search and a Stock screen | [Stock at the till](/till/stock-at-till/) |
 | ↳ **Stock counts** | Count sheets | [Stock counts](/inventory/counts/) |
 | ↳ **Batches and expiry dates** | Batch numbers and expiry dates | [Batches and expiry](/inventory/batches-expiry/) |
 | **Suppliers and goods received** | Suppliers and receiving deliveries | [Suppliers](/purchasing/suppliers/), [Receiving goods](/purchasing/receiving-goods/) |

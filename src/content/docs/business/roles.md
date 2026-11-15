@@ -35,6 +35,7 @@ Every business gets these roles. They are marked **system** and cannot be edited
 | Branches | View branches, warehouses and registers | See the branch structure. |
 | Branches | Create and update branches, warehouses and registers | Change the branch structure. |
 | Devices | Register and revoke POS devices | Pair and remove tills, resolve sync issues. |
+| Devices | Add, replace and remove a branch's local hub | The [local hub](/business/local-hub/). Owner and Administrator by default. Plan feature. |
 | Employees | View employees | See the employee list. |
 | Employees | Create, update and disable employees and their roles | Manage staff. |
 | Roles | Create and update roles | Build custom roles. |
@@ -53,6 +54,9 @@ Every business gets these roles. They are marked **system** and cannot be edited
 | Sales | Create sales at the POS | Sell on the till. |
 | Sales | Apply manual discounts | Give discounts up to the higher limit and approve cashiers' discounts. |
 | Sales | Process returns · Void sales | Without a manager's approval. |
+| Sales | Sell on credit within the customer's limit | Choose Credit at the till. Owner, Administrator, Manager and Cashier by default. Plan feature. |
+| Sales | Approve credit beyond the limit and set credit limits | Approve at the till; set limits on the customer. Owner, Administrator and Manager by default. Plan feature. |
+| Sales | Receive payments for credit sales | The till's Receive payment screen. Owner, Administrator, Manager and Cashier by default. Plan feature. |
 | Cash | Open and close own cash shift, cash in/out | Run a shift on the till. |
 | Cash | View and reconcile all cash shifts | See all shifts, close them without a count, approve cash outs. |
 | Expenses | Record expenses | Reserved for expense features. |
@@ -77,6 +81,10 @@ purchasing).
 
 You can only give permissions that **you hold yourself** — others are shown as *You do not hold
 this permission*.
+
+Some permissions **need others** to work — for example *Post inventory adjustments* needs *View
+inventory* and *View products and catalogue*. Ticking one also ticks what it needs (*Also ticked …*), and
+unticking one also unticks the permissions that need it (*Also unticked …*).
 
 To change a custom role, select <span class="ui">Edit</span> and <span class="ui">Save role</span>.
 Select <span class="ui">Archive</span> when you no longer need it.

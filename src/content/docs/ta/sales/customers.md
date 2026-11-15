@@ -22,13 +22,20 @@ sidebar:
    - **Customer discount (%)** — till இல் தானாக apply ஆகும்; manager approval தேவையில்லை.
    - **Notes** — back office க்கு மட்டும்; tills க்கு அனுப்பப்படாது.
    - **Marketing consent** — customer ஒப்புக்கொண்டால் மட்டுமே *SMS*, *WhatsApp* அல்லது *Email* ஐ tick செய்யுங்கள்.
-   - **Active** — inactive customers tills இலிருந்து அகற்றப்படுவார்கள்.
+   - **Active** — inactive customers tills இலிருந்து அகற்றப்படுவார்கள். [Credit sales](/ta/till/credit-sales/) இல் கடன் உள்ள
+     customer ஐ inactive ஆக்கவோ erase செய்யவோ முடியாது.
 3. Save செய்யுங்கள்.
 
 ## Customer details
 
 ஒவ்வொரு customer உம் purchases எண்ணிக்கை, அவர்கள் **Spent** செய்தது (returns க்குப் பிறகு), profile எப்போது எங்கே உருவானது (*at a till*
 அல்லது *in the admin*), receipts உடன் **Purchase history**, **Consent history** ஐக் காட்டும்.
+
+## Credit
+
+Plan இல் **Credit sales** இருந்தால், customer இன் **Credit** பகுதியும் காட்டப்படும்: **Balance owing**, **Credit limit**, **Sales
+not fully paid**, **Statement**. Owners, administrators, managers limit ஐ இங்கே set செய்வார்கள். [Credit sales](/ta/till/credit-sales/)
+ஐப் பாருங்கள்.
 
 ## Personal data (PDPA)
 

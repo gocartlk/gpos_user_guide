@@ -39,6 +39,11 @@ A customer pays part in cash and part by card:
 Made a mistake? <span class="ui">Remove this payment</span> next to it. Only cash can be more than
 what is still to pay (to give change).
 
+## On credit
+
+With **Credit sales** in your plan, a regular customer can pay later: add the customer to the sale
+and choose **Credit**. See [Credit sales](/till/credit-sales/).
+
 ## In the back office
 
 Payments appear on the sale in **Sales**, on the cash **shift** (*Sales — card*, *Sales — QR*…),

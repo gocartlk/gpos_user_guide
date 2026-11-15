@@ -24,6 +24,10 @@ data is not deleted.
 | **Sync error · {n} need attention** | Something could not be sent — see below. |
 | **Last sync …** | When the till last talked to the back office. |
 
+With a [local hub](/business/local-hub/), the bar also says how the till is connected — for
+example *Online · via hub Back office PC*, *Hub Back office PC · cloud offline · 12 safe on the
+hub*, or *Hub not reachable · selling offline*. Sales the hub holds show as **On the hub**.
+
 ## Works offline / needs internet
 
 | Works offline | Needs internet |
@@ -31,7 +35,8 @@ data is not deleted.
 | Selling, payments, discounts, approvals | Setting up or re-authorising the till |
 | Opening and closing shifts, cash in/out | Finding a sale made on **another till** |
 | Returns of sales from **this** till | Getting new prices, products, PINs (on the next sync) |
-| Adding customers | |
+| Adding customers | [Stock](/till/stock-at-till/) (without a local hub) |
+| [Credit sales and payments](/till/credit-sales/) | |
 
 ## The sync panel
 
@@ -48,6 +53,9 @@ Select the status bar to open **Sync and this till**:
 - <span class="ui">Download everything again</span> — if the catalog on the till looks wrong.
   **Waiting operations are kept.**
 - Details of **This till**: register, branch, app version, storage and screen status.
+- **Local hub** — when the branch has a hub: its address and when it last reached the cloud.
+  On a till not yet using it, <span class="ui">Move to the hub</span> (see
+  [Local hub](/business/local-hub/#3-connect-the-tills)).
 
 ## "Waiting for a manager"
 

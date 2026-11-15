@@ -47,6 +47,8 @@ sidebar:
 | **F10** | Shift: cash in/out, X report (receipt printer හෝ **A4**), close |
 | **F11** | Full screen on / off |
 | **F12** | Till එක lock කරන්න |
+| **Ctrl + I** | [Stock](/si/till/stock-at-till/): search, low, out of stock, expiring (plan එකේ තියෙනවා නම්) |
+| **Ctrl + B** | Credit sale එකකට [Receive payment](/si/till/credit-sales/) (plan එකේ තියෙනවා නම්) |
 | **Ctrl + K** | Keys list එක |
 | **Esc** | Open වෙලා තියෙන window එක close කරන්න |
 

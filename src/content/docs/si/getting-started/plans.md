@@ -47,6 +47,7 @@ GPOS **plans** කිහිපයක් යටතේ ලැබෙනවා — �
 | **More than one branch** | Shops කිහිපයක් පවත්වාගෙන යාම | [Branches](/si/business/branches/) |
 | ↳ **Different branch prices** | එක branch එකක වෙනස් price එකක් | [Products](/si/catalog/products/) |
 | **Warehouses** | Branch එකක තමන්ගේම store එක නොවන stores | [Branches](/si/business/branches/) |
+| **Local hub** | Internet නැතුව branch එකේ tills එකට වැඩ කරවන shop එකේ computer එකක් | [Local hub](/si/business/local-hub/) |
 | **Sizes and colours (variants)** | Sizes, colours සහ වෙනත් options තියෙන products | [Products](/si/catalog/products/) |
 | **Product photos** | Products වල pictures | [Products](/si/catalog/products/) |
 | **Excel / CSV upload and download** | Products import සහ export කිරීම | [Import and export](/si/catalog/import-export/) |
@@ -54,6 +55,7 @@ GPOS **plans** කිහිපයක් යටතේ ලැබෙනවා — �
 | **Print barcode labels** | Label printer එකක හෝ A4 sticker sheets වල barcode labels | [Barcodes සහ labels](/si/catalog/barcodes-and-labels/) |
 | **Customer list** | Back office එකේ සහ till එකේ customer profiles, PDPA export සහ erase ඇතුළුව | [Customers](/si/sales/customers/) |
 | ↳ **Customer discounts** | Till එකේ apply වෙන customer ගේම discount එක | [Customers at the till](/si/till/customers/) |
+| ↳ **Credit sales and customer balances** | Credit එකට විකිණීම, credit limits, පස්සේ payments ගැනීම | [Credit sales](/si/till/credit-sales/) |
 
 #### Stock සහ purchasing
 
@@ -61,6 +63,7 @@ GPOS **plans** කිහිපයක් යටතේ ලැබෙනවා — �
 |---------|----------------|-------------|
 | **Stock control** | Stock levels, opening stock, adjustments | [Inventory](/si/inventory/stock-and-movements/) |
 | ↳ **Stock transfers** | Stores අතර stock මාරු කිරීම | [Transfers](/si/inventory/transfers/) |
+| ↳ **Stock view at the till** | Till එකේ search එකේ branch එකේ stock සහ Stock screen එකක් | [Till එකේ stock](/si/till/stock-at-till/) |
 | ↳ **Stock counts** | Count sheets | [Stock counts](/si/inventory/counts/) |
 | ↳ **Batches and expiry dates** | Batch numbers සහ expiry dates | [Batches and expiry](/si/inventory/batches-expiry/) |
 | **Suppliers and goods received** | Suppliers සහ deliveries receive කිරීම | [Suppliers](/si/purchasing/suppliers/), [Receiving goods](/si/purchasing/receiving-goods/) |

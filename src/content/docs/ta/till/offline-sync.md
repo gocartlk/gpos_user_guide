@@ -23,6 +23,10 @@ Till உங்கள் products, prices, staff PINs, customers, settings இன
 | **Sync error · {n} need attention** | ஏதோ அனுப்ப முடியவில்லை — கீழே பாருங்கள். |
 | **Last sync …** | Till கடைசியாக back office உடன் எப்போது தொடர்பு கொண்டது. |
 
+[Local hub](/ta/business/local-hub/) உடன், bar till எப்படி இணைந்துள்ளது எனவும் சொல்லும் — உதா. *Online · via hub Back office PC*,
+*Hub Back office PC · cloud offline · 12 safe on the hub*, அல்லது *Hub not reachable · selling offline*. Hub வைத்திருக்கும் sales
+**On the hub** எனக் காட்டப்படும்.
+
 ## Offline இல் வேலை செய்பவை / internet தேவையானவை
 
 | Offline இல் வேலை செய்யும் | Internet தேவை |
@@ -30,7 +34,8 @@ Till உங்கள் products, prices, staff PINs, customers, settings இன
 | Selling, payments, discounts, approvals | Till ஐ setup அல்லது re-authorise செய்தல் |
 | Shifts ஐ open மற்றும் close செய்தல், cash in/out | **வேறு till இல்** செய்த sale ஐக் கண்டுபிடித்தல் |
 | **இந்த** till இன் sales இன் returns | புதிய prices, products, PINs பெறுதல் (அடுத்த sync இல்) |
-| Customers ஐ add செய்தல் | |
+| Customers ஐ add செய்தல் | [Stock](/ta/till/stock-at-till/) (local hub இல்லாவிட்டால்) |
+| [Credit sales மற்றும் payments](/ta/till/credit-sales/) | |
 
 ## Sync panel
 
@@ -44,6 +49,8 @@ Till உங்கள் products, prices, staff PINs, customers, settings இன
   இடம் கொடுங்கள்: இன்னும் அதை மீண்டும் load செய்ய முடியாது, ஆனால் அவர்கள் அதன் மூலம் sales ஐக் கையால் reconcile செய்யலாம்.
 - <span class="ui">Download everything again</span> — till இல் உள்ள catalog தவறாகத் தெரிந்தால். **Waiting operations அப்படியே இருக்கும்.**
 - **This till** விவரங்கள்: register, branch, app version, storage, screen status.
+- **Local hub** — branch க்கு hub இருந்தால்: அதன் address மற்றும் அது கடைசியாக cloud ஐ எப்போது அடைந்தது. இன்னும் அதைப்
+  பயன்படுத்தாத till இல் <span class="ui">Move to the hub</span> ([Local hub](/ta/business/local-hub/) ஐப் பாருங்கள்).
 
 ## "Waiting for a manager"
 

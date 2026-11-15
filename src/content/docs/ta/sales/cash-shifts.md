@@ -31,7 +31,7 @@ Shifts க்கு யார் எப்போது open செய்தா�
 ### Shift details
 
 Shift ஐத் தேர்ந்தெடுத்தால் யார் open மற்றும் close செய்தார், **Opening float**, payment method வாரியாக sales (*Sales — cash*,
-*Sales — card*…), **Cash in**, **Cash out**, **Cash refunds**, **Counted notes and coins**, யார் செய்தார் மற்றும் *approved by …* உடன்
+*Sales — card*…, மற்றும் பணம் அல்லாத *on credit*), **Credit payments received**, **Cash in**, **Cash out**, **Cash refunds**, **Counted notes and coins**, யார் செய்தார் மற்றும் *approved by …* உடன்
 ஒவ்வொரு cash movement உம், sales list உம் தெரியும்.
 
 Cash movements flag செய்யப்படலாம்: **No approval**, **Approver not allowed**, **After the shift closed**, **Reason switched off**,

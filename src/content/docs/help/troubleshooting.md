@@ -114,6 +114,20 @@ The till has not synced for a while. Check the internet connection and select
 **"No reasons are set up for this" on cash in/out**
 Add or switch on [cash in/out reasons](/business/cash-reasons/).
 
+**"Credit limit exceeded. A manager must approve." / "This customer has no credit limit…"**
+A manager approves with their PIN, or set a higher limit on the customer in the back office. See
+[Credit sales](/till/credit-sales/#when-a-manager-must-approve).
+
+**"A payment was received for this sale, so it cannot be voided"**
+A credit sale that has been partly or fully paid can only be returned. Use **Return**.
+
+**"Stock is not available offline"**
+The Stock screen needs internet, or a [local hub](/business/local-hub/).
+
+**"Hub not reachable · selling offline"**
+The till cannot reach the shop's local hub. Keep selling — everything is sent later. Check that
+the hub computer is on and that its cable and the till's Wi-Fi work.
+
 **"No manager can approve on this till"**
 A manager needs a POS PIN and access to this branch.
 
